@@ -15,6 +15,14 @@ I work on efficient and reliable large language models: token-efficient inferenc
 
 Currently I am a Ph.D. student at HKUST(GZ), supervised by Prof. Xiaowen Chu and Prof. Xuming Hu, and a research intern at Mind Lab working on post-training and agent harnesses.
 
+### Open-source Footprint
+
+| Scope | Signal |
+| --- | --- |
+| Personal repositories | 40+ stars across public, non-fork repos |
+| Contributed projects | LMFlow (8.4k+ stars) and kvpress/NVIDIA (1.1k+ stars) |
+| Recent focus | Benchmarks, agent infrastructure, tool-use adapters, and reproducible research artifacts |
+
 ### What I Build
 
 | Direction | Representative work |
@@ -32,7 +40,7 @@ Currently I am a Ph.D. student at HKUST(GZ), supervised by Prof. Xiaowen Chu and
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/OptimalScale/LMFlow">LMFlow</a></h3>
-      <p>An extensible toolkit for fine-tuning and inference of large foundation models.</p>
+      <p>Contributed to an extensible toolkit for fine-tuning and inference of large foundation models.</p>
       <p><code>Python</code> <code>LLM fine-tuning</code> <code>open source</code></p>
     </td>
     <td width="50%">
