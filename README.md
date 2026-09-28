@@ -127,7 +127,7 @@ Merged PRs into other people's projects — 45 outside my own repositories.
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/OptimalScale/LMFlow">LMFlow</a> · 8.5k★</h3>
-      <p><b>12 merged PRs</b> — LISA (reasoning-aware fine-tuning), DoRA and Hymba support, LoRA target-module fixes, eval-during-training, large-data preprocessing.</p>
+      <p><b>15 merged PRs</b> — LISA (reasoning-aware fine-tuning), DoRA and Hymba support, LoRA target-module fixes, eval-during-training, large-data preprocessing.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/NVIDIA/kvpress">kvpress</a> · 1.2k★</h3>
