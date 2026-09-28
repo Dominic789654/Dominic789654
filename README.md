@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Ph.D. student @ HKUST(GZ)</b> · <b>Research Intern @ Mind Lab</b><br>
+  <b>Ph.D. student @ HKUST(GZ)</b><br>
   Efficient and reliable LLMs: inference, long context, KV cache, retrieval, and agentic workflows.
 </p>
 
@@ -121,7 +121,7 @@
 
 ## Upstream Contributions
 
-Merged PRs into other people's projects — 45 outside my own repositories.
+Merged PRs into other people's projects — 29 outside my own repositories.
 
 <table>
   <tr>
