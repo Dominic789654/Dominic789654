@@ -137,7 +137,8 @@ Merged PRs into other people's projects — 45 outside my own repositories.
   <tr>
     <td width="50%">
       <h3>Mind Lab research stack</h3>
-      <p>Merged into <a href="https://github.com/MindLab-Research/agentforge">agentforge</a>, <a href="https://github.com/MindLab-Research/agent-model-training-mono">agent-model-training-mono</a> and <a href="https://github.com/MindLab-Research/capability-mono">capability-mono</a> — sandboxed agent evaluation, τ³-mix SFT data pipelines, GenUI eval metrics.</p>
+      <p>Merged PRs into the lab's internal research monorepos — sandboxed agent evaluation, τ³-mix SFT data pipelines, GenUI eval metrics.</p>
+      <p><sub>agentforge · agent-model-training-mono · capability-mono <i>(private)</i></sub></p>
     </td>
     <td width="50%">
       <h3>Ecosystem lists &amp; tooling</h3>
